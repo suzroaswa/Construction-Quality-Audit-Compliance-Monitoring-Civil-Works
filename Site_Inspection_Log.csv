@@ -1,0 +1,41 @@
+Date,Activity,Inspector Name,Observation,Non-Conformance,Remarks
+2025-02-01,Formwork,Engineer Ravi,Minor deviation observed,Yes,Rectification required
+2025-02-02,Formwork,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-02-03,Concrete Pouring,Engineer Ravi,Minor deviation observed,Yes,Rectification required
+2025-02-04,Foundation Excavation,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-02-05,Concrete Pouring,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-02-06,Rebar Fixing,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-02-07,Foundation Excavation,Engineer Meera,Minor deviation observed,Yes,Rectification required
+2025-02-08,Rebar Fixing,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-02-09,Concrete Pouring,Engineer Meera,Work as per drawing,No,Approved
+2025-02-10,Rebar Fixing,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-02-11,Curing,Engineer Arjun,Work as per drawing,No,Approved
+2025-02-12,Formwork,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-02-13,Formwork,Engineer Priya,Work as per drawing,No,Approved
+2025-02-14,Curing,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-02-15,Rebar Fixing,Engineer Priya,Work as per drawing,No,Approved
+2025-02-16,Concrete Pouring,Engineer Ravi,Work as per drawing,No,Approved
+2025-02-17,Formwork,Engineer Meera,Work as per drawing,No,Approved
+2025-02-18,Curing,Engineer Priya,Work as per drawing,No,Approved
+2025-02-19,Foundation Excavation,Engineer Meera,Work as per drawing,No,Approved
+2025-02-20,Concrete Pouring,Engineer Ravi,Minor deviation observed,Yes,Rectification required
+2025-02-21,Formwork,Engineer Meera,Minor deviation observed,Yes,Rectification required
+2025-02-22,Rebar Fixing,Engineer Ravi,Work as per drawing,No,Approved
+2025-02-23,Rebar Fixing,Engineer Ravi,Minor deviation observed,Yes,Rectification required
+2025-02-24,Concrete Pouring,Engineer Ravi,Work as per drawing,No,Approved
+2025-02-25,Formwork,Engineer Priya,Work as per drawing,No,Approved
+2025-02-26,Curing,Engineer Priya,Work as per drawing,No,Approved
+2025-02-27,Foundation Excavation,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-02-28,Concrete Pouring,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-03-01,Curing,Engineer Priya,Work as per drawing,No,Approved
+2025-03-02,Rebar Fixing,Engineer Ravi,Minor deviation observed,Yes,Rectification required
+2025-03-03,Curing,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-03-04,Formwork,Engineer Arjun,Minor deviation observed,Yes,Rectification required
+2025-03-05,Formwork,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-03-06,Formwork,Engineer Ravi,Work as per drawing,No,Approved
+2025-03-07,Concrete Pouring,Engineer Priya,Work as per drawing,No,Approved
+2025-03-08,Concrete Pouring,Engineer Ravi,Work as per drawing,No,Approved
+2025-03-09,Curing,Engineer Priya,Work as per drawing,No,Approved
+2025-03-10,Formwork,Engineer Priya,Minor deviation observed,Yes,Rectification required
+2025-03-11,Curing,Engineer Ravi,Work as per drawing,No,Approved
+2025-03-12,Formwork,Engineer Priya,Work as per drawing,No,Approved
